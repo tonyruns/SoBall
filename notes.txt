@@ -1,0 +1,2 @@
+i need to use google places api, google maps api, bootstrap
+add locations, store locations
